@@ -246,6 +246,9 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
 
+- **2018-01** | PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures | *Pawel S Krawczyk  Leszek Lipinski  Andrzej Dziembowski* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkx1321)
+
+- **2018-02** | DeepARG: a deep learning approach for predicting antibiotic resistance genes from metagenomic data | *Gustavo Arango-Argoty, Emily Garner, Amy Pruden, Lenwood S. Heath, Peter Vikesland and Liqing ZhangEmail author* | [Microbiome](https://doi.org/10.1186/s40168-018-0401-z)
 
 ### Contribution
 
